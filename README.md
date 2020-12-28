@@ -1,16 +1,16 @@
 This is a simple sliding puzzle game on android written in kotlin. There is a video showing how the game works in game.mp4. This was a lab assignment.
 
-###Start of a game
+### Start of a game
 ![](img/start.png)
 
-###Chossing time limit
+### Chossing time limit
 ![](img/difficulty.png)
 
-###Shuffled image
+### Shuffled image
 ![](img/shuffledimage.png)
 
-###Winning the game
+### Winning the game
 ![](img/win.png)
 
-###Running out of time
+### Running out of time
 ![](img/runoutoftime.png)
