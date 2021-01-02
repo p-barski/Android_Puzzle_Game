@@ -1,4 +1,4 @@
-This is a simple sliding puzzle game on android written in kotlin. There is a video showing how the game works in game.mp4. This was a lab assignment.
+Created in 12.2020. This is a simple sliding puzzle game on android written in kotlin. There is a video showing how the game works in game.mp4.
 
 ### Start of a game
 ![](img/start.png)
